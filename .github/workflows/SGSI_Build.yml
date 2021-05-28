@@ -10,7 +10,7 @@ env:
   ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu17_Pro/9.0.0.0/cn/20210525164941/b3519b4d/update.zip
   ZIP_NAME: update.zip
   OS_TYPE: Flyme
-  BUILD_TYPE: ab
+  BUILD_TYPE: a-only
   REPACK_NAME: SGSI.zip
   VERSION: '12'
   upload_WeTransfer: 'true'
