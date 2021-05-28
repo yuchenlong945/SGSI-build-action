@@ -7,9 +7,9 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://dl.google.com/developers/android/sc/images/ota/redfin-ota-spp2.210219.008-3d61e529.zip'
+  ROM_URL: 'https://firmware.meizu.com/Firmware/Flyme/meizu18/9.0.2.1/cn/20210425155631/6b138a10/update.zip'
   ZIP_NAME: 'update.zip'
-  OS_TYPE: 'Pixel'
+  OS_TYPE: 'Flyme'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
   VERSION: '12'
