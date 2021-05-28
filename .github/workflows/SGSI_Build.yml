@@ -12,7 +12,7 @@ env:
   OS_TYPE: Flyme
   BUILD_TYPE: a-only
   REPACK_NAME: SGSI.zip
-  VERSION: '12'
+  VERSION: 11
   upload_WeTransfer: 'true'
   upload_action-gh-release: 'false'
   SETUP: 'true'
