@@ -11,7 +11,7 @@ env:
   ZIP_NAME: FLymesgsi.zip
   OS_TYPE: Flyme
   BUILD_TYPE: ab
-  REPACK_NAME: sgsi.zip
+  REPACK_NAME: sgsi.zip./SGSI/*
   VERSION: 11
   upload_WeTransfer: 'true'
   upload_action-gh-release: 'false'
